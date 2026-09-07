@@ -35,7 +35,7 @@ migrations/
    ```bash
    cp .env.example .env
    ```
-3. Create the database schema by running the SQL in `migrations/create_tankstellen_table.sql` against your MySQL instance.
+3. Create the database schema by running the SQL in `migrations/create_gasstations_table.sql` against your MySQL instance.
 
 ## Running
 
