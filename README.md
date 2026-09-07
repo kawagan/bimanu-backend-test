@@ -1,4 +1,4 @@
-# bimanu-test
+# bimanu gas stations backend test
 
 Express API for syncing and querying gas stations from the Cologne (Köln) open data portal, backed by MySQL.
 
