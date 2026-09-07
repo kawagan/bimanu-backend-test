@@ -1,6 +1,6 @@
 const gasStationModel = require("../models/gasStationModel");
 
-// Cologne Geoportal ArcGIS endpoint 
+// Cologne Geoportal ArcGIS endpoint
 const GASSTATIONS_API_URL =
   "https://geoportal.stadt-koeln.de/arcgis/rest/services/verkehr/gefahrgutstrecken/MapServer/0/query" +
   "?where=objectid+is+not+null&outFields=*&returnGeometry=true&outSR=4326&f=json";
